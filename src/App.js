@@ -1,4 +1,6 @@
-// !!! Quit development server = ctrl+c
+// !!! Quit development server = ctrl+c (You can push 2 times for open another.)
+// !!! You can't return more than one root JSX element because of JavaScript
+// "createElement" feature.
 
 import React, { useState } from "react";
 import Expenses from "./components/Expenses/Expenses";
