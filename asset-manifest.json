@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/First-create-react-app/static/css/main.582a09db.css",
-    "main.js": "/First-create-react-app/static/js/main.d7b95e81.js",
-    "index.html": "/First-create-react-app/index.html",
-    "main.582a09db.css.map": "/First-create-react-app/static/css/main.582a09db.css.map",
-    "main.d7b95e81.js.map": "/First-create-react-app/static/js/main.d7b95e81.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.582a09db.css",
+    "main.js": "/Expense-Tracker/static/js/main.d7b95e81.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.582a09db.css.map": "/Expense-Tracker/static/css/main.582a09db.css.map",
+    "main.d7b95e81.js.map": "/Expense-Tracker/static/js/main.d7b95e81.js.map"
   },
   "entrypoints": [
     "static/css/main.582a09db.css",
